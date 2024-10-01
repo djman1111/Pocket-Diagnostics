@@ -1,0 +1,3 @@
+This week's work on the project was mostly documentation and roadmap edits for up to the end of the semester. 
+Know that we need to be able to read 10kHz signals with the oscilloscope function now.
+If we only have 2 input, need 20kS/s or 40kS/s if 4 input like the ADS1115.
