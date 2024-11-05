@@ -1,0 +1,2 @@
+Completed testing and troubleshooting sending data Via bluetooth, ESP32 recieved the data and was able send a signal. Wasn't able to capture data, still WOP.
+By Next week: intend to fix the recieve data function, and begin setting up test signal capture for Oscilloscope and 16 channel logic.
