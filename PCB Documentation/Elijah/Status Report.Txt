@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PocketDiagnostics.PrjPcb]
+   Generated File[SerialPortSniffer.TXT]
+   Generated File[SerialPortSniffer.LDP]
+   Generated File[SerialPortSniffer.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:36:51 PM On 11/6/2024
