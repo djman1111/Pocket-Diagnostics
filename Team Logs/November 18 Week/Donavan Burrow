@@ -1,0 +1,2 @@
+Bluetooth recieve function implemented, able to recieve data from the ESP32 into a list.
+Next step is to display the data for demonstration next tuesday
