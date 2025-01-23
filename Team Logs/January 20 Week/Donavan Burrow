@@ -1,1 +1,3 @@
 Troubleshooting bluetooth functionality, trying to get consistent results to continue with next part of project.
+Specifically, the read function isn't receiving all data, so to correct this, we are going to have the ESP32 send a read instead of the user requesting 
+information.
