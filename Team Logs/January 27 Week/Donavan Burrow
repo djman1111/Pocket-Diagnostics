@@ -1,1 +1,2 @@
 Still troubleshooting bluetooth with Jacob on receiving data on app. So far, notification isn't working though working with firmware to figure out issues.
+Currently firmware isn't handling notifcation from app to send data
