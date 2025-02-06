@@ -1,0 +1,2 @@
+Got Bluetooth data streaming to work for larger sizes of data being sent to the phone.
+Now working on copying progress on Oscilloscope onto each data type and should be working on UI changes up to next week.
