@@ -1,0 +1,4 @@
+The past week I soldered on the major components to the PCB for testing.
+A major issue that arose is that the ADC converter footprint was incorrect, I had configured it to the bottom view.
+To fix this I need to redesign and order a new PCB board. I plan to get the board ordered by the end of the week. 
+The plan for next week is to assemble redesigned board, get FPGA tested.
