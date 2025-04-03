@@ -1,0 +1,4 @@
+This past week, the ADC converter was tested. The ADC converter is able to take in analog input signals, convert them, communicate them with the ESP32 and then to app. Therefore,
+showing a fully integrated function. The input voltage level for the battery was also tested using a multimeter. The integrated board design was also completed and sent for order.
+The team has decided to replace the functionality of the FPGA with a second ESP32 and a I/O expander due to unsolvable bugs in the FPGA due to time constraints. 
+The plan for this week, is to order any parts that are required for the integrated PCB as well as perform more validation tests. 
