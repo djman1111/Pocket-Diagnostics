@@ -1,1 +1,3 @@
-This folder will store all the files associated with the app design, it is designed using flutter and was compiled on an android phone using visual code studio
+This folder will store all the files associated with the app design, it is designed using flutter and was compiled on an android phone using Visual Studio Code
+Using the flutterSDK, and installing the flutter extension, use the terminal to navigate to the source code folder (wherever you downloaded it) and use "flutter run"
+If the phone is in developer mode and connected to the computer via USB, then the phone will be available to program using this command.
